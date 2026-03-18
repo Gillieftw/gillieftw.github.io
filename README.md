@@ -2,4 +2,4 @@
 Discovering GitHub Pages
 
 # Testing a link
-[https://gillieftw.github.io/about/test-page]
+[Test Page](https://gillieftw.github.io/about/test-page)
