@@ -2,4 +2,4 @@
 Discovering GitHub Pages
 
 # Testing a link
-[[about/test-page]]
+[about/test-page]
